@@ -1,2 +1,2 @@
-# Numpy-Pandas-Matplotlib-Seaborn-sklearn-kmeans Clusttering.
+# Numpy-Pandas-Matplotlib-Seaborn-Sklearn-kmeans Clusttering.
 
